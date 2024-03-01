@@ -53,3 +53,6 @@
 
 # Australia
 * [LinuxNow](https://www.linuxnow.com.au)
+
+# UAE
+* [Assuredzone](https://www.assuredzone.com/ae/) - Mobile & Computer Resources site.
